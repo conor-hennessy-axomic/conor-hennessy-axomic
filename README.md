@@ -1,4 +1,4 @@
-## Hello Hello! I'm Conor <img src="https://twemoji.maxcdn.com/v/latest/svg/1f44b.svg" width="32" height="32"> 
+## Hello Hello! I'm Conor <img src="https://raw.githubusercontent.com/jdecked/twemoji/a6909cf5f7add58ac1cac60b0f4d24f9904441ec/assets/svg/1f44b.svg" width="32" height="32"> 
 
 I'm a backend software engineer at Axomic Ltd, working on OpenAsset.
 
